@@ -185,6 +185,8 @@
   },
   "active": "03db90d1c38bf0be",
   "lastOpenFiles": [
+    "y.pub",
+    "y",
     "package-lock.json",
     "01_Introduzione/Regole_Speciali.md",
     "01_Introduzione/Ambientazione.md",
@@ -219,8 +221,6 @@
     "05_ATTO_4_Alba_Apoteosi/Luoghi",
     "04_ATTO_3_Guerra_Mondi/Luoghi",
     "28_Mappe_Tattiche",
-    "27_Glossario",
-    "26_Sessioni_ATTO_2_Continued",
-    "25_Downtime"
+    "27_Glossario"
   ]
 }
