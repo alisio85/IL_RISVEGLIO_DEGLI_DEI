@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a22921e2532ed0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "27574a92129d39f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03db90d1c38bf0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Indice/Indice_Generale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indice_Generale"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f40c4c13b14b33f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "34227736cb6c1fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd27257f92d33887",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "36bf55b3a44bf763",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "f5dbaeae07e38346",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac46449a88dc00f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df4f17d19437deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44aaf3d4efd28ee0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11_Fazioni/Alleanza_Multiversale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Alleanza_Multiversale"
+            }
+          },
+          {
+            "id": "1d2e647abb3b9ff9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11_Fazioni/Alleanza_Multiversale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Alleanza_Multiversale"
+            }
+          },
+          {
+            "id": "4cc97cdcc691c388",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "e5d6ee06cad347c1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "b2a4e14a554c3248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "11_Fazioni/Alleanza_Multiversale.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Alleanza_Multiversale"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "03db90d1c38bf0be",
+  "lastOpenFiles": [
+    "package-lock.json",
+    "01_Introduzione/Regole_Speciali.md",
+    "01_Introduzione/Ambientazione.md",
+    "14_Oggetti_Consegnabili/Recap_Sessione.md",
+    "14_Oggetti_Consegnabili/Registro_Sessioni_Player.md",
+    "14_Oggetti_Consegnabili/Handout_Indovinelli.md",
+    "14_Oggetti_Consegnabili/Schede_PG/Druida.md",
+    "20_Campaign_Tracker/Tracker_Campagna.md",
+    "20_Campaign_Tracker/Frammento_Progressione.md",
+    "16_Guide_DM/Guida_ATTO_I.md",
+    "03_ATTO_2_Confini_Realtà/Ravenloft/Vallaki_e_Foresta.md",
+    "14_Oggetti_Consegnabili/Schede_PG/Bardo.md",
+    "14_Oggetti_Consegnabili/Schede_PG/Chierico.md",
+    "14_Oggetti_Consegnabili/Schede_PG/Ladro.md",
+    "14_Oggetti_Consegnabili/Schede_PG/Mago.md",
+    "Senza nome.canvas",
+    "Benvenuto.md",
+    "14_Oggetti_Consegnabili/Schede_PG/Guerriero.md",
+    "27_Risorse_DM/Mappa_Relazioni_PNG.md",
+    "14_Oggetti_Consegnabili/Schede_PG",
+    "27_Risorse_DM",
+    "25_Downtime/Downtime_Per_Mondo.md",
+    "24_Bestiario_Completo/Stat_Block_Completi.md",
+    "24_Bestiario_Completo/Tabelle_d100.md",
+    "03_ATTO_2_Confini_Realtà/07_Il_Giardino_dei_Sogni.md",
+    "03_ATTO_2_Confini_Realtà/05_La_Forgeria_del_Mondo.md",
+    "03_ATTO_2_Confini_Realtà/03_Il_Regno_del_Terrore.md",
+    "03_ATTO_2_Confini_Realtà/02_La_Corsa_Spaziale.md",
+    "03_ATTO_2_Confini_Realtà/01_Oltre_il_Velo.md",
+    "30_Divinita_e_Pantheon",
+    "29_Regole_Aggiuntive",
+    "05_ATTO_4_Alba_Apoteosi/Luoghi",
+    "04_ATTO_3_Guerra_Mondi/Luoghi",
+    "28_Mappe_Tattiche",
+    "27_Glossario",
+    "26_Sessioni_ATTO_2_Continued",
+    "25_Downtime"
+  ]
+}

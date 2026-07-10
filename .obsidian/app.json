@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "10_Mappe",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "showFrontmatter": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it-IT"
+  ]
+}
